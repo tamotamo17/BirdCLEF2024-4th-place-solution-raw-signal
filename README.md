@@ -5,3 +5,4 @@ This repo contains raw signal model training code from the [4th place solution o
 - [Background noise from unlabeled data](https://www.kaggle.com/datasets/tamotamo/bc24-unlabeled-background-crop)
 - [Additional data](https://www.kaggle.com/datasets/yokuyama/birdclef2024-additional-cleaned)
 
+Prepare 5 second croped data using '''prepare_dataset.ipynb'''
