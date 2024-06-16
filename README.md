@@ -16,4 +16,4 @@ Run `train.ipynb`
 Upload your model to kaggle dataset, then convert pytroch models to openvino format using [this notebook](https://www.kaggle.com/code/tamotamo/convert-pytorch-model-to-openvino)
 
 ## Inference
-Upload your openvino model to kaggle dataset, run [this notebook](https://www.kaggle.com/code/ajobseeker/b24-final?scriptVersionId=182393504) (this notebook uses other models, so please make them following this repo)
+Upload your openvino model to kaggle dataset, then run [this notebook](https://www.kaggle.com/code/ajobseeker/b24-final?scriptVersionId=182393504) (this notebook uses other models, so please make them following this repo)
