@@ -1,7 +1,7 @@
 # BirdCLEF2024-4th-place-solution TmT's part
 This repo contains training code of raw signal model from the [4th place solution of BirdCLEF2024](https://www.kaggle.com/competitions/birdclef-2024/discussion/511845)
 ## Environment
-Google Colaboratory T4
+Google Colaboratory with T4 GPU
 ## Data
 - [Competition data](https://www.kaggle.com/competitions/birdclef-2024/data)
 - [Background noise from unlabeled data](https://www.kaggle.com/datasets/tamotamo/bc24-unlabeled-background-crop)
