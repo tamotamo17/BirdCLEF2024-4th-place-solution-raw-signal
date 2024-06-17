@@ -7,7 +7,7 @@ Google Colaboratory with T4 GPU
 - [Background noise from unlabeled data](https://www.kaggle.com/datasets/tamotamo/bc24-unlabeled-background-crop)
 - [Additional data](https://www.kaggle.com/datasets/yokuyama/birdclef2024-additional-cleaned)
 
-Prepare 5 seconds clip using `prepare_dataset.ipynb` to speed up the training.
+Prepare 5 seconds clip using `prepare_dataset.ipynb` or use [this cropped dataset](https://www.kaggle.com/datasets/tamotamo/birdclef2024-crop/data) to speed up the training.
 
 ## Train
 Run `train.ipynb`
