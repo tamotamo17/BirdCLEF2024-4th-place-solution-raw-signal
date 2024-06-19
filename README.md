@@ -1,4 +1,4 @@
-# BirdCLEF2024-4th-place-solution TmT's part
+# BirdCLEF2024-4th-place-solution raw signal model part
 This repository contains training code of raw signal models from the [4th place solution of BirdCLEF2024](https://www.kaggle.com/competitions/birdclef-2024/discussion/511845).  
 You can find the code for our other models, the Mel-spectrogram model, in [this repository](https://github.com/yoku001/BirdCLEF2024-4th-place-solution-melspec).
 ## Environment
